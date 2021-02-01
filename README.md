@@ -1,2 +1,2 @@
 # knowledge-imbalance
-Repo for analyzing imbalances over KGs
+Code for analyzing imbalances over KGs
